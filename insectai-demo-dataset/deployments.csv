@@ -1,0 +1,4 @@
+deploymentID,locationID,locationName,latitude,longitude,deploymentStart,deploymentEnd,cameraModel,attractant,baitType
+d001,loc001,Location A,34.8902197,33.1238413,2025-05-01T12:03:04.698609Z,2025-05-04T12:03:04.698630Z,Canon-X500,True,UV light
+d002,loc002,Location B,34.7340249,32.6603099,2025-05-01T12:03:04.708755Z,2025-05-04T12:03:04.708766Z,Canon-X500,True,UV light
+d003,loc003,Location C,34.8059564,33.0062085,2025-05-01T12:03:04.717073Z,2025-05-04T12:03:04.717088Z,Canon-X500,True,Scent lure

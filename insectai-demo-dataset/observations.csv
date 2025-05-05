@@ -1,0 +1,17 @@
+observationID,deploymentID,mediaID,eventStart,eventEnd,observationLevel,observationType,scientificName,classificationMethod,classifiedBy,classificationTimestamp,classificationProbability
+obs0010,d001,m_d001_7,2025-05-04T16:03:04.700352Z,2025-05-04T17:03:04.700355Z,media,validated,Insecta spp.,human,expert1,2025-05-05T08:03:04.700357Z,1.0
+obs0020,d001,m_d001_14,2025-05-04T16:03:04.701466Z,2025-05-04T17:03:04.701470Z,media,validated,Insecta spp.,human,expert1,2025-05-05T08:03:04.701474Z,1.0
+obs0030,d001,m_d001_19,2025-05-04T16:03:04.702865Z,2025-05-04T17:03:04.702870Z,media,high_confidence,Insecta spp.,machine,mdl001,2025-05-05T08:03:04.702874Z,0.85
+obs0040,d001,m_d001_26,2025-05-04T16:03:04.704375Z,2025-05-04T17:03:04.704377Z,media,validated,Insecta spp.,human,expert1,2025-05-05T08:03:04.704380Z,1.0
+obs0050,d001,m_d001_30,2025-05-04T16:03:04.705234Z,2025-05-04T17:03:04.705237Z,media,validated,Insecta spp.,human,expert1,2025-05-05T08:03:04.705239Z,1.0
+obs0060,d002,m_d002_4,2025-05-04T16:03:04.709819Z,2025-05-04T17:03:04.709821Z,media,high_confidence,Insecta spp.,machine,mdl001,2025-05-05T08:03:04.709823Z,0.7
+obs0070,d002,m_d002_8,2025-05-04T16:03:04.710641Z,2025-05-04T17:03:04.710644Z,media,validated,Insecta spp.,human,expert1,2025-05-05T08:03:04.710646Z,1.0
+obs0080,d002,m_d002_15,2025-05-04T16:03:04.711485Z,2025-05-04T17:03:04.711487Z,media,validated,Insecta spp.,human,expert1,2025-05-05T08:03:04.711490Z,1.0
+obs0090,d002,m_d002_20,2025-05-04T16:03:04.712507Z,2025-05-04T17:03:04.712512Z,media,high_confidence,Insecta spp.,machine,mdl001,2025-05-05T08:03:04.712516Z,0.62
+obs0100,d003,m_d003_3,2025-05-04T16:03:04.717917Z,2025-05-04T17:03:04.717919Z,media,validated,Insecta spp.,human,expert1,2025-05-05T08:03:04.717922Z,1.0
+obs0110,d003,m_d003_7,2025-05-04T16:03:04.718842Z,2025-05-04T17:03:04.718845Z,media,validated,Insecta spp.,human,expert1,2025-05-05T08:03:04.718847Z,1.0
+obs0120,d003,m_d003_14,2025-05-04T16:03:04.719679Z,2025-05-04T17:03:04.719682Z,media,high_confidence,Insecta spp.,machine,mdl001,2025-05-05T08:03:04.719684Z,0.75
+obs0130,d003,m_d003_18,2025-05-04T16:03:04.720522Z,2025-05-04T17:03:04.720525Z,media,validated,Insecta spp.,human,expert1,2025-05-05T08:03:04.720527Z,1.0
+obs0140,d003,m_d003_24,2025-05-04T16:03:04.721332Z,2025-05-04T17:03:04.721334Z,media,validated,Insecta spp.,human,expert1,2025-05-05T08:03:04.721337Z,1.0
+obs0150,d003,m_d003_30,2025-05-04T16:03:04.722158Z,2025-05-04T17:03:04.722162Z,media,high_confidence,Insecta spp.,machine,mdl001,2025-05-05T08:03:04.722166Z,0.66
+obs0160,d003,m_d003_37,2025-05-04T16:03:04.723386Z,2025-05-04T17:03:04.723390Z,media,validated,Insecta spp.,human,expert1,2025-05-05T08:03:04.723395Z,1.0

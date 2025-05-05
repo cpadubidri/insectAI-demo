@@ -1,0 +1,22 @@
+{
+  "name": "insectai-multiloc-demo",
+  "title": "InsectAI WG3 Demo Dataset",
+  "description": "These toy datasets are used to demonstrate the InsectAI platform. They are not real datasets and are not intended for any real-world applications.",
+  "resources": [
+    {
+      "path": "deployments.csv"
+    },
+    {
+      "path": "media.csv"
+    },
+    {
+      "path": "annotations.csv"
+    },
+    {
+      "path": "models.csv"
+    },
+    {
+      "path": "observations.csv"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+modelID,modelName,modelVersion,modelDescription,modelPathRepository,publicationDate,modelTask
+mdl001,InsectNet,1.0,YOLOv5-based insect detector,https://github.com/insectai/insectnet,2025-04-01,object detection
